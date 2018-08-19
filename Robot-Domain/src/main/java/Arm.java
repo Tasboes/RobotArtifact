@@ -3,6 +3,7 @@ public class Arm {
     Long length;
     Integer strength;
     String color;
+    String side;
 
     public Long getLength() {
         return length;
@@ -26,5 +27,13 @@ public class Arm {
 
     public void setColor(String color) {
         this.color = color;
+    }
+
+    public String getSide() {
+        return side;
+    }
+
+    public void setSide(String side) {
+        this.side = side;
     }
 }
