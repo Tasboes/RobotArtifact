@@ -2,6 +2,6 @@ package service;
 
 import dto.RobotDTO;
 
-interface RobotService {
+public interface RobotService {
     RobotDTO getRobotProperties(Integer robotId);
 }
