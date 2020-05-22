@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="RobotTest" time="0.004" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="RobotTest" time="0" errors="0" skipped="0">
   <properties>
-    <property name="idea.version" value="2018.2.4"/>
+    <property name="idea.version" value="2018.2.5"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="10.0.2+13"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-10.0.2\bin"/>
@@ -22,6 +22,7 @@
     <property name="java.runtime.version" value="10.0.2+13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
+    <property name="visualvm.id" value="515454222575"/>
     <property name="java.io.tmpdir" value="C:\Users\tasbo\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
@@ -45,7 +46,7 @@
     <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.1\plugins\maven\lib\maven3\boot\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="10"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.2.4 install"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.2.5 install"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-10.0.2"/>
     <property name="user.language" value="da"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -63,7 +64,7 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="RobotTest" name="testRobotWithArmLength" time="0.004"/>
+  <testcase classname="RobotTest" name="testRobotWithArmLength" time="0"/>
   <testcase classname="RobotTest" name="testRobotWithArmColor" time="0"/>
   <testcase classname="RobotTest" name="testRobotWithArmStrength" time="0"/>
   <testcase classname="RobotTest" name="testRobotWithLeftArm" time="0"/>
