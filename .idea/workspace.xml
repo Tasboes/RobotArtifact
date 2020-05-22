@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87c70fbc-405e-41dd-bd53-85fee794fbe2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Controller/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Controller/target/Robot-Controller-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Controller/target/Robot-Controller-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Controller/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Controller/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Controller/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Domain/target/Robot-Domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Domain/target/Robot-Domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Domain/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Domain/target/surefire-reports/RobotTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Domain/target/surefire-reports/RobotTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Domain/target/surefire-reports/TEST-RobotTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Domain/target/surefire-reports/TEST-RobotTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Service/src/main/java/controller/RobotController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Controller/src/main/java/controller/RobotController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Service/target/Robot-Service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Service/target/Robot-Service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Service/target/classes/service/RobotService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Service/target/classes/service/RobotService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Service/target/surefire-reports/TEST-service.RobotServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Service/target/surefire-reports/TEST-service.RobotServiceImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robot-Service/target/surefire-reports/service.RobotServiceImplTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Robot-Service/target/surefire-reports/service.RobotServiceImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Robot-Domain/target/" />
+    <ignored path="$PROJECT_DIR$/Robot-Service/target/" />
+    <ignored path="$PROJECT_DIR$/Robot-Controller/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RobotArtifact$RobotTest.ic" NAME="RobotTest Coverage Results" MODIFIED="1534704695412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="17" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/service/RobotService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/service/RobotServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Service/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/mapper/RobotMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Robot-Controller/src/main/java/controller/RobotController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/dto/RobotDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Domain/src/main/java/domain/Arm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Robot-Domain/src/main/java/domain/Leg.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Tasboes" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="RobotArtifact" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="" />
+          <option name="title" value="RobotService (Bundled Groovy 2.4.15)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/service/RobotService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/service/RobotServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/RobotServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Robot-Domain/pom.xml" />
+        <option value="$PROJECT_DIR$/Robot-Service/src/main/java/service/domain/RobotService.java" />
+        <option value="$PROJECT_DIR$/Robot-Domain/src/main/java/Robot.java" />
+        <option value="$PROJECT_DIR$/Robot-Domain/src/main/java/Arm.java" />
+        <option value="$PROJECT_DIR$/Robot-Domain/src/main/java/Leg.java" />
+        <option value="$PROJECT_DIR$/Robot-Service/src/main/java/service/RobotServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Robot-Service/src/main/java/mapper/RobotMapper.java" />
+        <option value="$PROJECT_DIR$/Robot-Domain/src/test/java/RobotTest.java" />
+        <option value="$PROJECT_DIR$/Robot-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Robot-Service/src/main/java/service/RobotService.java" />
+        <option value="$PROJECT_DIR$/Robot-Service/src/main/java/controller/RobotController.java" />
+        <option value="$PROJECT_DIR$/Robot-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Robot-Controller/src/main/java/controller/RobotController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="RobotArtifact" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="RobotArtifact" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RobotArtifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RobotArtifact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotArtifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RobotArtifact" type="462c0819:PsiDirectoryNode" />
+              <item name="Robot-Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotArtifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RobotArtifact" type="462c0819:PsiDirectoryNode" />
+              <item name="Robot-Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotArtifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RobotArtifact" type="462c0819:PsiDirectoryNode" />
+              <item name="Robot-Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotArtifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RobotArtifact" type="462c0819:PsiDirectoryNode" />
+              <item name="Robot-Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RobotArtifact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RobotArtifact" type="462c0819:PsiDirectoryNode" />
+              <item name="Robot-Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="robotartifact" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Robot-Domain/src/main/java" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tasbo\IdeaProjects\RobotArtifact\Robot-Service\src\test\java" />
+      <recent name="C:\Users\tasbo\IdeaProjects\RobotArtifact\Robot-Service\src\main\java" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 1 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="Robot-Controller" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Runner.Tomcat runner">
+    <configuration name="RobotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RobotDomain" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotTest.testRobotWithArm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RobotDomain" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RobotTest" />
+      <option name="METHOD_NAME" value="testRobotWithArm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat runner" type="TomcatRunner-By-Camtwo" factoryName="Tomcat Runner">
+      <option name="TomcatRunnerV001-Modules" value="{&quot;modules&quot;:[]}" />
+      <option name="TomcatRunnerV001-TomcatInstallation" value="$USER_HOME$/Documents/Tomcat9/apache-tomcat-9.0.12" />
+      <option name="TomcatRunnerV001-VmArgs" value="" />
+      <option name="TomcatRunnerV001-PassParentEnvVars" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RobotTest" />
+      <item itemvalue="JUnit.RobotTest.testRobotWithArm" />
+      <item itemvalue="Tomcat Runner.Tomcat runner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RobotTest" />
+        <item itemvalue="JUnit.RobotTest.testRobotWithArm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c70fbc-405e-41dd-bd53-85fee794fbe2" name="Default Changelist" comment="" />
+      <created>1534527473187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534527473187</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1534703089750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534703089750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1534703444578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534703444578</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Unit test for arm side.">
+      <created>1534704793557</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534704793557</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RobotTest - 2018.08.17 at 20h 41m 12s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.08.19 at 20h 51m 29s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.08.19 at 20h 51m 38s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.09.22 at 20h 32m 09s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.10.07 at 15h 24m 33s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.10.07 at 15h 24m 57s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.10.07 at 15h 25m 37s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.10.07 at 15h 26m 11s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.10.07 at 15h 35m 18s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.10.15 at 10h 13m 07s.xml">
+      <configuration name="RobotTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19597316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3240469" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" visible="true" weight="0.32844576" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" sideWeight="0.4978166" visible="true" weight="0.22550336" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.5021834" side_tool="true" weight="0.22550336" />
+      <window_info anchor="right" id="RestServices" order="6" weight="0.1738255" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Added Unit test for arm side." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Unit test for arm side." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/RobotDomain.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Service/src/test/java/service/RobotServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/target/classes/Robot.class" />
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/target/classes/Leg.class" />
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/pom.xml">
+      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/src/main/java/domain/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/src/test/java/RobotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Controller/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/service/RobotService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/service/RobotServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Service/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/mapper/RobotMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Service/src/main/java/dto/RobotDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/src/main/java/domain/Arm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Domain/src/main/java/domain/Leg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Robot-Controller/src/main/java/controller/RobotController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

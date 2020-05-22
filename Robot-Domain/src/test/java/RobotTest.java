@@ -1,3 +1,6 @@
+import domain.Arm;
+import domain.Leg;
+import domain.Robot;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
